@@ -1,2 +1,3 @@
-Hello soy picasso meme espero aprender
-Divertirme y divertirnos juntos aprendiendo
+love.load
+Hola soy picaso meme y espero enseñarte y divertirnos juntos!
+dt
